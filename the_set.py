@@ -1,0 +1,6 @@
+d = set([1,2,3])
+print(d)
+s = set([2,3,4])
+print(s)
+print(d & s)
+print([d | s])
