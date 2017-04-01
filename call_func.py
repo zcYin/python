@@ -1,0 +1,5 @@
+x = abs(-123)
+print(x)
+print('max(1,2,3)=',max(1,2,3))
+print('min(1,2,3)=',min(1,2,3))
+print('sum([1,2,3])=',sum([1,2,3]))
